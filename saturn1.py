@@ -4,5 +4,4 @@ tethys
 rhea
 phoebe
 hyperion
-mani
-123
+pan
